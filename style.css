@@ -1,0 +1,16 @@
+/*!
+Theme Name: noda1
+Theme URI: https://github.com/12ants/noda1/
+Author: Leon Ljunghorn
+Author URI: https://12ants.github.io/
+Description: Hi. I'm a starter theme called <code>noda1</code>, or <em>underscores</em>, if you like. I'm a theme meant for hacking so don't use me as a <em>Parent Theme</em>. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for. Theme URI: <a href="https://github.com/12ants/noda1/">https://github.com/12ants/noda1/</a>
+
+Version: 1.1.1
+Tested up to: 6.0
+Requires PHP: 6.0
+Text Domain: noda1
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+*/
+
+ body{height:100%;}
